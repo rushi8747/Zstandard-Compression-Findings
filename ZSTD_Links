@@ -1,0 +1,13 @@
+IMP Links regarding Zstd Compression:
+
+https://facebook.github.io/zstd/
+
+https://engineering.fb.com/core-data/smaller-and-faster-data-compression-with-zstandard/ -- IMP
+
+Install Zstd: https://progur.com/2016/09/how-to-install-and-use-zstd-facebook.html
+
+Github code: https://github.com/facebook/zstd/releases/tag/v1.0.0
+
+Good Blog on ZSTD: https://tecadmin.net/zstandard-data-compression-tool/
+
+Add zstd compression technique: https://cwiki.apache.org/confluence/display/KAFKA/KIP-110%3A+Add+Codec+for+ZStandard+Compression
